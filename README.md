@@ -1,1 +1,3 @@
-# 1234
+---
+permalink: /index.html
+---
